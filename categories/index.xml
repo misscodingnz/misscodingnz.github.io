@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on MissCoding Blog</title>
-    <link>https://misscodingnz.github.io/categories/</link>
+    <link>https://misscoding.tripwiretech.com/categories/</link>
     <description>Recent content in Categories on MissCoding Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://misscodingnz.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://misscoding.tripwiretech.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

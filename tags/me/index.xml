@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>me on MissCoding Blog</title>
-    <link>https://misscodingnz.github.io/tags/me/</link>
+    <link>https://misscoding.tripwiretech.com/tags/me/</link>
     <description>Recent content in me on MissCoding Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jul 2022 14:20:19 +1200</lastBuildDate><atom:link href="https://misscodingnz.github.io/tags/me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jul 2022 14:20:19 +1200</lastBuildDate><atom:link href="https://misscoding.tripwiretech.com/tags/me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://misscodingnz.github.io/page/about/</link>
+      <link>https://misscoding.tripwiretech.com/page/about/</link>
       <pubDate>Thu, 21 Jul 2022 14:20:19 +1200</pubDate>
       
-      <guid>https://misscodingnz.github.io/page/about/</guid>
+      <guid>https://misscoding.tripwiretech.com/page/about/</guid>
       <description>oh hi!</description>
     </item>
     

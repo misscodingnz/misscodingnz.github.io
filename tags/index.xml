@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MissCoding Blog</title>
-    <link>https://misscodingnz.github.io/tags/</link>
+    <link>https://misscoding.tripwiretech.com/tags/</link>
     <description>Recent content in Tags on MissCoding Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jul 2022 14:20:19 +1200</lastBuildDate><atom:link href="https://misscodingnz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jul 2022 14:20:19 +1200</lastBuildDate><atom:link href="https://misscoding.tripwiretech.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about</title>
-      <link>https://misscodingnz.github.io/tags/about/</link>
+      <link>https://misscoding.tripwiretech.com/tags/about/</link>
       <pubDate>Thu, 21 Jul 2022 14:20:19 +1200</pubDate>
       
-      <guid>https://misscodingnz.github.io/tags/about/</guid>
+      <guid>https://misscoding.tripwiretech.com/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>me</title>
-      <link>https://misscodingnz.github.io/tags/me/</link>
+      <link>https://misscoding.tripwiretech.com/tags/me/</link>
       <pubDate>Thu, 21 Jul 2022 14:20:19 +1200</pubDate>
       
-      <guid>https://misscodingnz.github.io/tags/me/</guid>
+      <guid>https://misscoding.tripwiretech.com/tags/me/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>https://misscodingnz.github.io/tags/blog/</link>
+      <link>https://misscoding.tripwiretech.com/tags/blog/</link>
       <pubDate>Thu, 21 Jul 2022 14:20:05 +1200</pubDate>
       
-      <guid>https://misscodingnz.github.io/tags/blog/</guid>
+      <guid>https://misscoding.tripwiretech.com/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hello</title>
-      <link>https://misscodingnz.github.io/tags/hello/</link>
+      <link>https://misscoding.tripwiretech.com/tags/hello/</link>
       <pubDate>Thu, 21 Jul 2022 14:20:05 +1200</pubDate>
       
-      <guid>https://misscodingnz.github.io/tags/hello/</guid>
+      <guid>https://misscoding.tripwiretech.com/tags/hello/</guid>
       <description></description>
     </item>
     
